@@ -3,7 +3,7 @@
 Make sure you have [Node.js](http://nodejs.org/)
 
 ```sh
-$ git clone https://github.com/harryt04/wolverine-scheduler.git # or clone your own fork
+$ git clone https://github.com/harryt04/wolverine-scheduler.git
 $ cd wolverine-scheduler
 $ (sudo) npm install
 $ npm start
