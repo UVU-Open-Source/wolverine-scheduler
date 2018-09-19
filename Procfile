@@ -1,1 +1,1 @@
-web: cd frontend && npm start-heroku
+web: cd frontend && npm run start-heroku
