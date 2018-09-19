@@ -3,13 +3,13 @@
 Make sure you have [Node.js](http://nodejs.org/)
 
 ```sh
-$ git clone https://github.com/UVU-Open-Source/wolverine-scheduler
-$ cd wolverine-scheduler
+$ git clone https://github.com/UVU-Open-Source/wolverine-scheduler ws
+$ cd ws
 $ npm install
 $ npm start
 ```
 
-`npm install` and `npm start` intuitively install and run both the backend and frontend directories respectively.
+###`npm install` and `npm start` intuitively install and run both the backend and frontend directories respectively.
 
 # Deploying to Heroku
 
